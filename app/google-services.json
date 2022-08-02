@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "438676291001",
+    "firebase_url": "https://mybase-1176b-default-rtdb.firebaseio.com",
+    "project_id": "mybase-1176b",
+    "storage_bucket": "mybase-1176b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438676291001:android:2d2cb2f2f9a0bec089ca68",
+        "android_client_info": {
+          "package_name": "com.example.safefamily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438676291001-v6uregti17pbshrdnoabas31s80ji0hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa5TwzprM9TOhqs-j_ITS-Md_qXge-TMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438676291001-v6uregti17pbshrdnoabas31s80ji0hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

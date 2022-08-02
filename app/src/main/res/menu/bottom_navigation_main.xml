@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_people"
+        android:icon="@drawable/black1"
+        android:title="People"/>
+    <item
+        android:id="@+id/action_chat"
+        android:icon="@drawable/chat"
+        android:title="Chat"/>
+    <item
+        android:id="@+id/action_account"
+        android:icon="@drawable/black2"
+        android:title="Account"/>
+    <item
+        android:id="@+id/action_danger"
+        android:icon="@drawable/dan"
+        android:title="danger"/>
+
+</menu>

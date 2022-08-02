@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:src="@drawable/safe1" />
+    <Button
+        android:id="@+id/Messagesendbutton"
+        android:text="위험 메세지 전송"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <Button
+        android:id="@+id/gpsbutton"
+        android:text="GPS 접속"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"/>
+    </LinearLayout>
+
+</LinearLayout>
