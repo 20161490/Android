@@ -1,5 +1,5 @@
 # Android
-##SafeFamily 졸업작품
+## SafeFamily 졸업작품
 ## 가족지킴이 어플
 ## 기능 1. 회원가입
 ## 기능 2. 로그인 기능
